@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4350786567002116014
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 81947346896475349, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.859
+      objectReference: {fileID: 0}
+    - target: {fileID: 81947346896475349, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 81947346896475349, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.152
+      objectReference: {fileID: 0}
+    - target: {fileID: 81947346896475349, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 81947346896475349, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 81947346896475349, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 81947346896475349, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 81947346896475349, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 81947346896475349, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 81947346896475349, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 850803646846380144, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: m_Name
+      value: VihriaHedelma Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2161987246595245448, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fca152ae07297df4b8bec426a74994cc, type: 2}
+    - target: {fileID: 4817243473768912792, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 83b8af43eadb72f4ab62b07219507d59, type: 2}
+    - target: {fileID: 5921199551145296639, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fca152ae07297df4b8bec426a74994cc, type: 2}
+    m_RemovedComponents:
+    - {fileID: 7828451125016030783, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 850803646846380144, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 298196862350493883}
+  m_SourcePrefab: {fileID: 100100000, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+--- !u!1 &4012619566840637406 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 850803646846380144, guid: 53ce2305c4caae54a92cdcc6bcf9252f, type: 3}
+  m_PrefabInstance: {fileID: 4350786567002116014}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &298196862350493883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4012619566840637406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4724f2a85c9f68419afbda63e874145, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eatingsound: {fileID: 8300000, guid: 43ac3619b369786449dd6f2054698e4a, type: 3}

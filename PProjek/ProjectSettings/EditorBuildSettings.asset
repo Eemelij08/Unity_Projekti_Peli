@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a6a03e08420de7742aa5ba362eb1321a
+  - enabled: 1
+    path: Assets/Scenes/InfoMenu.unity
+    guid: 5eb3e850286b329468bdb256c904b229
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 88f0943aee72a994696e20fbd17e76d6
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelOne.unity
+    guid: 6ed229d5159967d4c9cd3edc6867f8c1
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelTwo.unity
+    guid: 6ce430c93103c5b42a7b049358327e33
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelThree.unity
+    guid: 8cfea848f55487d489027bd1995675ee
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelFour.unity
+    guid: d22ad44085991eb4cb20a075f2bb7095
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelFive.unity
+    guid: c432e5eb3d21dc341a8b72a2bf7292bd
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelSix.unity
+    guid: be773ebc9dcfcda43b319b12bb59482c
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelSeven.unity
+    guid: d3bcd4cc1c6f25845a97db7fe37ff51e
+  - enabled: 1
+    path: Assets/Scenes/Levels/LevelEight.unity
+    guid: 4ca1573feca0b164485f6c0d3f509ab0
+  - enabled: 1
+    path: Assets/Scenes/LevelEndScene.unity
+    guid: 015c935812f543043a885a7a5de5a5bf
+  - enabled: 1
+    path: Assets/Scenes/FakeLevelWinScreen.unity
+    guid: 8a856d2b743c77a4981fb7645a7246a6
+  - enabled: 1
+    path: Assets/Scenes/ContinueLevelWinScreen.unity
+    guid: 1d19f27b8162e364395b5cf5d966296a
+  - enabled: 1
+    path: Assets/Scenes/LevelWinScreen.unity
+    guid: 2eeaace3faf8c954ba6e7ae3bcc93ab3
+  - enabled: 1
+    path: Assets/Scenes/EndScene.unity
+    guid: 6aa79609d9f668548bb7ef7745a66dcb
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+  m_UseUCBPForAssetBundles: 0
