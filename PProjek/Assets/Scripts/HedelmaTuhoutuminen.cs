@@ -19,6 +19,14 @@ public class HedelmaTuhoutuminen : MonoBehaviour
             Destroy(gameObject);
         }
 
+        if (collision.gameObject.CompareTag("Pelaaja2"))
+        {
+
+            AudioSource.PlayClipAtPoint(eatingsound, transform.position);
+            Pistelaskuri.Instance.Player2poweri = 1;
+            Destroy(gameObject);
+        }
+
         Destroy(gameObject, 20f);
 
     }

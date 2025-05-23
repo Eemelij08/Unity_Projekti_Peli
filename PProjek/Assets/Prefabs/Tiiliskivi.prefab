@@ -149,6 +149,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c610e49075b8e59429ca779adef31d48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  explosionEffectPrefab: {fileID: 9182236509268088459, guid: 4b44ec28ca632a744a3835aaed75c9bd, type: 3}
+  explosionEffectPrefab: {fileID: 2753068986981732386, guid: 56e927a65ae2e7b41a92f4f459914841, type: 3}
   explosionSound: {fileID: 8300000, guid: 9f1900413c2610b439c55cc5c8caefb9, type: 3}
-  havioSound: {fileID: 8300000, guid: 64a8b6150b07e9644b0912387be7a02f, type: 3}

@@ -11,6 +11,12 @@ public class Pistelaskuri : MonoBehaviour
 
     public float spawnVali = 2f;
 
+    //Pelaaja maara
+    public int pelaajaMaara = 1;
+
+    //KONAMI KOODI
+    public int KONAMI = 0;
+
 
     //Hiiri
 
@@ -37,6 +43,9 @@ public class Pistelaskuri : MonoBehaviour
     //public int Laskuri = 0;
     public int poweri = 0;
     public int poweri2 = 0;
+
+    public int Player2poweri = 0;
+    public int Player2poweri2 = 0;
 
     public bool onKuolematon = false;
 
@@ -205,6 +214,13 @@ public class Pistelaskuri : MonoBehaviour
         isGameActive = true;
         SceneManager.LoadScene("SampleScene");
     }
+    public void StartGame2Player()
+    {
+        score = 0;
+        Hiiri = 1;
+        isGameActive = true;
+        SceneManager.LoadScene("Endless2Player");
+    }
 
     public void EndGame()
     {
@@ -213,12 +229,27 @@ public class Pistelaskuri : MonoBehaviour
         SceneManager.LoadScene("EndScene");
         
     }
+    public void EndGamePlayerTwo()
+    {
+        Hiiri = 0;
+        isGameActive = false;
+        SceneManager.LoadScene("EndScenePlayer2");
+
+    }
 
     public void LevelEndGame()
     {
         Hiiri = 0;
         isGameActive = true;
         SceneManager.LoadScene("LevelEndScene");
+
+    }
+
+    public void LevelEndGamePlayerTwo()
+    {
+        Hiiri = 0;
+        isGameActive = true;
+        SceneManager.LoadScene("LevelEndScenePlayer2");
 
     }
 

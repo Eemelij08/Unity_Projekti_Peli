@@ -9,6 +9,8 @@ TagManager:
   - LevelMaa
   - Tiili
   - Kuolematon
+  - Player2
+  - Pelaaja2
   layers:
   - Default
   - TransparentFX

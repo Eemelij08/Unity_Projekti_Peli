@@ -25,6 +25,20 @@ public class VihriaHedelmaTuhoutuminen : MonoBehaviour
             }
         }
 
+        if (collision.gameObject.CompareTag("Pelaaja2"))
+        {
+            if (Pistelaskuri.Instance.poweri2 == 2)
+            {
+                Debug.Log("Olet jo syany vihrian marijan");
+            }
+            else
+            {
+                AudioSource.PlayClipAtPoint(eatingsound, transform.position);
+                Pistelaskuri.Instance.poweri2 = 2;
+                Destroy(gameObject);
+            }
+        }
+
         Destroy(gameObject, 20f);
 
     }

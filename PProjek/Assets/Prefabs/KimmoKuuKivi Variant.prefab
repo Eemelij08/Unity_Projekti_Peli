@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7077940534633867336
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2089037571897452114, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: explosionEffectPrefab
+      value: 
+      objectReference: {fileID: 7160742116204296280, guid: c5ed272a5f7657142ac7b6a847843a0c, type: 3}
+    - target: {fileID: 4678620208207688915, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 6b1636d04cc1e9e448093161fe4ebfc0, type: 2}
+    - target: {fileID: 5282828767919382090, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -85.7381
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282828767919382090, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000038146973
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282828767919382090, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -57.27018
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282828767919382090, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282828767919382090, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282828767919382090, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282828767919382090, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282828767919382090, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282828767919382090, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5282828767919382090, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6564790643042822348, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}
+      propertyPath: m_Name
+      value: KimmoKuuKivi Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bbd961f54a8cfeb4a989f766cd723824, type: 3}

@@ -11,12 +11,31 @@ public class MenuNapit : MonoBehaviour
 
     public void StartGame()
     {
-        Pistelaskuri.Instance.StartGame();
+        if (Pistelaskuri.Instance.pelaajaMaara == 1)
+        {
+            Pistelaskuri.Instance.StartGame();
+        }
+        else
+        {
+            Pistelaskuri.Instance.StartGame2Player();
+        }
     }
 
     public void QuitGame()
     {
         Pistelaskuri.Instance.QuitGame();
+    }
+
+    public void PlayerCount()
+    {
+        if (Pistelaskuri.Instance.pelaajaMaara == 1)
+        {
+            Pistelaskuri.Instance.pelaajaMaara = 2;
+        }
+        else if (Pistelaskuri.Instance.pelaajaMaara == 2)
+        {
+            Pistelaskuri.Instance.pelaajaMaara = 1;
+        }
     }
 
     public void BackToMenu()

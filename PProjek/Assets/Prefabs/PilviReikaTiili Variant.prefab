@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8009207083175910511
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1078287851871411498, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: m_Name
+      value: PilviReikaTiili Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1733516785261017222, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4dc2fd61dfb1c834f9f143aebb6dd40e, type: 2}
+    - target: {fileID: 1977779984271337161, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4dc2fd61dfb1c834f9f143aebb6dd40e, type: 2}
+    - target: {fileID: 2039362608696959827, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: explosionEffectPrefab
+      value: 
+      objectReference: {fileID: 2481005315322894547, guid: eaa5d11f94f0a834ca5aebe11d22f6df, type: 3}
+    - target: {fileID: 3466568685729710804, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4dc2fd61dfb1c834f9f143aebb6dd40e, type: 2}
+    - target: {fileID: 3935534810906675397, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -19.857388
+      objectReference: {fileID: 0}
+    - target: {fileID: 3935534810906675397, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3935534810906675397, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.63867
+      objectReference: {fileID: 0}
+    - target: {fileID: 3935534810906675397, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3935534810906675397, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3935534810906675397, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3935534810906675397, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3935534810906675397, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3935534810906675397, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3935534810906675397, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4637944197932003794, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4dc2fd61dfb1c834f9f143aebb6dd40e, type: 2}
+    - target: {fileID: 4908567922825390599, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: explosionEffectPrefab
+      value: 
+      objectReference: {fileID: 2481005315322894547, guid: eaa5d11f94f0a834ca5aebe11d22f6df, type: 3}
+    - target: {fileID: 5143797671665103944, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: explosionEffectPrefab
+      value: 
+      objectReference: {fileID: 2481005315322894547, guid: eaa5d11f94f0a834ca5aebe11d22f6df, type: 3}
+    - target: {fileID: 7785515436873027669, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}
+      propertyPath: explosionEffectPrefab
+      value: 
+      objectReference: {fileID: 2481005315322894547, guid: eaa5d11f94f0a834ca5aebe11d22f6df, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1d7c02fd96b068b4a8b119eb513f014c, type: 3}

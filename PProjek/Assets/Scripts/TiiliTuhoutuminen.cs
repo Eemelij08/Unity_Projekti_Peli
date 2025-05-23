@@ -69,13 +69,27 @@ public class TiiliTuhoutuminen : MonoBehaviour
             }
         }
 
+        //Pelaaja2
+        if (Pistelaskuri.Instance.onKuolematon == false)
+        {
+            if (collision.gameObject.CompareTag("Pelaaja2"))
+            {
+                Pistelaskuri.Instance.LevelEndGamePlayerTwo();
+            }
+        }
+
         if (collision.gameObject.CompareTag("Player"))
         {
             Pistelaskuri.Instance.EndGame();
         }
+        //Pelaaja2
+        if (collision.gameObject.CompareTag("Player2"))
+        {
+            Pistelaskuri.Instance.EndGamePlayerTwo();
+        }
 
         //Level muoto
-        
+
 
         Destroy(gameObject, 10f);
 

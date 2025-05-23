@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
+    path: Assets/Scenes/Endless2Player.unity
+    guid: 03acd9bce6d99e14697b1b8f89b72af5
+  - enabled: 1
     path: Assets/Scenes/Levels/LevelOne.unity
     guid: 6ed229d5159967d4c9cd3edc6867f8c1
   - enabled: 1
@@ -45,6 +48,9 @@ EditorBuildSettings:
     path: Assets/Scenes/LevelEndScene.unity
     guid: 015c935812f543043a885a7a5de5a5bf
   - enabled: 1
+    path: Assets/Scenes/LevelEndScenePlayer2.unity
+    guid: ff76c3e693ae77d429ea11004e9c87c3
+  - enabled: 1
     path: Assets/Scenes/FakeLevelWinScreen.unity
     guid: 8a856d2b743c77a4981fb7645a7246a6
   - enabled: 1
@@ -56,6 +62,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EndScene.unity
     guid: 6aa79609d9f668548bb7ef7745a66dcb
+  - enabled: 1
+    path: Assets/Scenes/EndScenePlayer2.unity
+    guid: b1efddaf94cc2b04e85d466b3d10f5bd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0

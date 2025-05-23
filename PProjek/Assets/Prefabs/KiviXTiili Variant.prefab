@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8856768419284489001
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 230379995710824044, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d2f2041841679ce4dbc1f751546a05ec, type: 2}
+    - target: {fileID: 310679904162219387, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: explosionEffectPrefab
+      value: 
+      objectReference: {fileID: 6322864824112627106, guid: bac0920bf05cae24ab6e267c80e47507, type: 3}
+    - target: {fileID: 822463183542429523, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.721666
+      objectReference: {fileID: 0}
+    - target: {fileID: 822463183542429523, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822463183542429523, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.010001183
+      objectReference: {fileID: 0}
+    - target: {fileID: 822463183542429523, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 822463183542429523, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822463183542429523, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822463183542429523, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822463183542429523, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822463183542429523, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822463183542429523, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2340193833051267642, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: explosionEffectPrefab
+      value: 
+      objectReference: {fileID: 6322864824112627106, guid: bac0920bf05cae24ab6e267c80e47507, type: 3}
+    - target: {fileID: 6368034253413521402, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d2f2041841679ce4dbc1f751546a05ec, type: 2}
+    - target: {fileID: 6855170993027648749, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: explosionEffectPrefab
+      value: 
+      objectReference: {fileID: 6322864824112627106, guid: bac0920bf05cae24ab6e267c80e47507, type: 3}
+    - target: {fileID: 8964983730923778235, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e86463bf28bd7f04693978cab39c433a, type: 2}
+    - target: {fileID: 9031106727884348383, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
+      propertyPath: m_Name
+      value: KiviXTiili Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2728790dfd68a434c9f9522e42095ea5, type: 3}
